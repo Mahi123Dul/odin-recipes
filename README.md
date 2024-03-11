@@ -10,3 +10,8 @@ Whether you wanna make asian cuisine or wanna impress you indian friend by cooki
 Start exploring now and let the  culinary adventure begin!
 
 ## Demonstrated Skills
+I will explain what i use on this project. First i oraganized project structure and then i create
+two folder one for my content and another images and one main file. I use basic html example: Heading elements,  Creates hyperlink, unordered list,. ordered list.
+
+## Self-Reflection
+Throughout the project, I gained valuable experience in building project.
